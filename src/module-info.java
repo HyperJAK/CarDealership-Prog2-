@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author JAK
+ *
+ */
+module TestDelFast {
+}
